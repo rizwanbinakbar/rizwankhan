@@ -28,7 +28,7 @@ export function Experience() {
         <div className="text-center mb-16 animate-fade-in-up">
           <h2 className="text-4xl font-bold mb-4">Work Experience</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            My journey helping to make data-driven decisions.
+            My journey in helping to make data-driven decisions.
           </p>
         </div>
 
