@@ -2,31 +2,22 @@ import { Badge } from "./ui/badge";
 
 const experiences = [
   {
-    role: "Senior Software Engineer",
-    company: "TechCorp Inc.",
-    period: "2022 – Present",
-    location: "Remote",
+    role: "Data Analyst",
+    company: "HashTun.",
+    period: "2024 – Present",
+    location: "Multan, Pakistan",
     description:
       "Led the architecture and development of a microservices platform serving 2M+ daily users. Reduced deployment time by 60% through CI/CD automation.",
     tags: ["React", "Node.js", "AWS", "Kubernetes"],
   },
   {
-    role: "Full-Stack Developer",
-    company: "Startup Labs",
-    period: "2020 – 2022",
-    location: "New York, NY",
+    role: "Freelance Data Analyst",
+    company: "Freelance",
+    period: "2024 – Present",
+    location: "Remote",
     description:
       "Built and shipped multiple SaaS products from 0 to 1. Designed REST and GraphQL APIs consumed by web and mobile clients.",
     tags: ["TypeScript", "Next.js", "PostgreSQL", "GraphQL"],
-  },
-  {
-    role: "Software Engineer",
-    company: "Digital Agency Co.",
-    period: "2018 – 2020",
-    location: "San Francisco, CA",
-    description:
-      "Developed responsive web applications for enterprise clients. Collaborated closely with UX designers to deliver pixel-perfect interfaces.",
-    tags: ["React", "Python", "Django", "Docker"],
   },
 ];
 
@@ -37,7 +28,7 @@ export function Experience() {
         <div className="text-center mb-16 animate-fade-in-up">
           <h2 className="text-4xl font-bold mb-4">Work Experience</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            My journey building software that matters.
+            My journey helping to make data-driven decisions.
           </p>
         </div>
 
