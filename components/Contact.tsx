@@ -34,7 +34,7 @@ export function Contact() {
               <div>
                 <p className="font-medium">Email</p>
                 <a
-                  href="mailto:rizwan@example.com"
+                  href="mailto:rizwanfordata@gmail.com"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
                   rizwan@example.com
@@ -53,7 +53,7 @@ export function Contact() {
               <div>
                 <p className="font-medium">GitHub</p>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/rizwanbinakbar"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -67,12 +67,12 @@ export function Contact() {
               <div>
                 <p className="font-medium">LinkedIn</p>
                 <a
-                  href="https://linkedin.com"
+                  href="https://linkedin.com/rizwanbinakbar"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  linkedin.com/in/rizwankhan
+                  linkedin.com/in/rizwanbinakbar
                 </a>
               </div>
             </div>
